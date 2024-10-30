@@ -64,8 +64,8 @@ This is a scalable and resilient **Like Button API** built with **.NET 6**. The 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kellyncodes/like-button-api.git
-   cd like-button-api
+   git clone https://github.com/kellyncodes/articlelike.git
+   cd ArticleLike
    ```
 
 2. **Update Database Configuration**:
